@@ -1520,7 +1520,7 @@ class TwitterSearchScraper(_TwitterAPIScraper):
 			'include_ext_verified_type': '1',
 			'skip_status': '1',
 			'cards_platform': 'Web-12',
-			'include_cards': '1',
+			# 'include_cards': '1',
 			'include_ext_alt_text': 'true',
 			'include_ext_limited_action_results': 'false',
 			'include_quote_count': 'true',
